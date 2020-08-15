@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ABCDGroupID.com.liuxiaoming.demo.UniversalLinkDemo",
+                "paths": [ "/scss/*", "/test2/*"]
+            }
+        ]
+    }
+}
