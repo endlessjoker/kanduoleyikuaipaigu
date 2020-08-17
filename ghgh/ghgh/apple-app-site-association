@@ -5,6 +5,21 @@
             {
                 "appID": "W824822LPA.SunnyArtEducation",
                 "paths": ["*"]
+
+            },
+            {
+                "appID": "W824822LPA.com.ygzm.SunnyArtStudent",
+                "paths": ["*"]
+
+            },
+            {
+                "appID": "D67SK2P9ZJ.com.aie.AiEStudent",
+                "paths": ["*"]
+
+            },
+            {
+                "appID": "D67SK2P9ZJ.com.aie.AiEEducation",
+                "paths": [ "*"]
             }
         ]
     }
